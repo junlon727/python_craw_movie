@@ -1,2 +1,2 @@
 # python_craw_movie
-爬取av网站。。
+爬取网站图片。。
